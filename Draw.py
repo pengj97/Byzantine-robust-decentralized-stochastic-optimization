@@ -29,7 +29,7 @@ def draw(attack):
     var_list = []
 
     for i in range(len(methods)):
-        with open("experiment-results/" + methods[i] + "-" + attack + ".pkl", "rb") as f:
+        with open("paper-results/" + methods[i] + "-" + attack + ".pkl", "rb") as f:
             acc, var =pickle.load(f)
             acc_list.append(acc)
             var_list.append(var)
