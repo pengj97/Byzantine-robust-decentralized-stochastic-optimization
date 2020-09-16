@@ -28,5 +28,4 @@ Simulating code of paper https://arxiv.org/abs/2005.06276
 
 ## Dataset
 
-* Download [MNIST](http://yann.lecun.com/exdb/mnist/) dataset in `./MNIST`
-
+* MNIST: http://yann.lecun.com/exdb/mnist/
