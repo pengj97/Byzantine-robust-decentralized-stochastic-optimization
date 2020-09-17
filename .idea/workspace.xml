@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3bb04ef-e63e-42df-847d-1be15ce1169c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="099d5af8-2b48-4d3a-b6c2-518eea48d4d7" />
+  <component name="ProjectId" id="1f9q8e3O6V9Snr7iTxQG8e4TqHu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dec-RSA" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PyCharm Community Edition 2019.1.3\TestOnMnist" />
+      <recent name="F:\PyCharm Community Edition 2019.1.3\TestOnMnist\DifferentGraph\RandomGraph" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PyCharm Community Edition 2019.1.3\TestOnMnist\DifferentGraph\RandomGraph\time-vary-graph" />
+      <recent name="F:\PyCharm Community Edition 2019.1.3\TestOnMnist\DifferentGraph\CompleteGraph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ours">
+    <configuration name="bridge (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestOnMnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models/BRIDGE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/BRIDGE/bridge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bridge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestOnMnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/bridge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="byrdie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestOnMnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models/ByRDiE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/ByRDiE/byrdie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dpsgd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestOnMnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models/DPSGD" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/DPSGD/dpsgd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ours" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestOnMnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models/Ours" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/Ours/ours.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bridge" />
+      <item itemvalue="Python.bridge (1)" />
+      <item itemvalue="Python.byrdie" />
+      <item itemvalue="Python.dpsgd (1)" />
+      <item itemvalue="Python.ours" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ours" />
+        <item itemvalue="Python.dpsgd (1)" />
+        <item itemvalue="Python.byrdie" />
+        <item itemvalue="Python.bridge (1)" />
+        <item itemvalue="Python.bridge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3bb04ef-e63e-42df-847d-1be15ce1169c" name="Default Changelist" comment="" />
+      <created>1566718582105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566718582105</updated>
+      <workItem from="1595640501273" duration="9722000" />
+      <workItem from="1595728875740" duration="3106000" />
+      <workItem from="1595756321117" duration="9417000" />
+      <workItem from="1595814194959" duration="5589000" />
+      <workItem from="1595858308214" duration="3875000" />
+      <workItem from="1595901494867" duration="6520000" />
+      <workItem from="1595911792893" duration="3072000" />
+      <workItem from="1595924402459" duration="2729000" />
+      <workItem from="1595927305837" duration="1160000" />
+      <workItem from="1595989895929" duration="41000" />
+      <workItem from="1596248239731" duration="699000" />
+      <workItem from="1596270356608" duration="3970000" />
+      <workItem from="1596277437009" duration="3165000" />
+      <workItem from="1596284621703" duration="915000" />
+      <workItem from="1596333302320" duration="610000" />
+      <workItem from="1596356507154" duration="86000" />
+      <workItem from="1596598405975" duration="927000" />
+      <workItem from="1597049653203" duration="645000" />
+      <workItem from="1597106897401" duration="591000" />
+      <workItem from="1599726365006" duration="4858000" />
+      <workItem from="1599812110003" duration="608000" />
+      <workItem from="1600154224664" duration="5183000" />
+      <workItem from="1600161504574" duration="29329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="707" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600246939980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600246939980" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595860196601">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1595860196601" />
+    <state x="686" y="225" key="FileChooserDialogImpl" timestamp="1600259273338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596333330536" />
+    <state x="686" y="225" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600259273338" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1600260092989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596599344752" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600260092989" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1600260092989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596599344752" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600260092989" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1600260092989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596599344752" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600260092989" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1600260092989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596599344752" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600260092989" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1600247030012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600247030012" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1600247030011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600247030011" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1600247030011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600247030011" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1600247030011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600247030011" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1600154249972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600154249972" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600180669951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1080.-381.1080.1880@0.0.1920.1040" timestamp="1600180669951" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DifferentGraph/RandomGraph/TVnorm/Softmax_signflipping.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DifferentGraph/RandomGraph/TVnorm/SoftamxRegression.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DifferentGraph/RandomGraph/TVnorm/SoftamxRegression.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DifferentGraph/RandomGraph/BRIDGE/SoftamxRegression.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DifferentGraph/RandomGraph/BRIDGE/SoftamxRegression.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DifferentGraph/RandomGraph/BRIDGE/SoftamxRegression.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DifferentGraph/RandomGraph/DGD/Softmax_signflipping.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Google Chrome Download/RSA-Byzantine-958a4c128377d6b0bc47476f420376fcb48fabb4/RSA-Byzantine-958a4c128377d6b0bc47476f420376fcb48fabb4/geomed/geomed_code.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="neighbor[13]" />
+        <watch expression="first" />
+        <watch expression="first" />
+        <watch expression="var_dimension" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$test_4.coverage" NAME="test-4 Coverage Results" MODIFIED="1600248339996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$dpsgd_sf.coverage" NAME="dpsgd_sf Coverage Results" MODIFIED="1595912327274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/DPSGD" />
+    <SUITE FILE_PATH="coverage/TestOnMnist$HeteroData__1_.coverage" NAME="HeteroData (1) Coverage Results" MODIFIED="1595673911433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DifferentGraph/RandomGraph/BRIDGE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$dpsgd_wa.coverage" NAME="dpsgd-wa Coverage Results" MODIFIED="1595861321806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/DPSGD" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$bridge_noniid.coverage" NAME="bridge_noniid Coverage Results" MODIFIED="1599727248509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/BRIDGE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$bridge_wa.coverage" NAME="bridge_wa Coverage Results" MODIFIED="1595907786252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/BRIDGE" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$Draw.coverage" NAME="Draw Coverage Results" MODIFIED="1600247999605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$ours.coverage" NAME="ours Coverage Results" MODIFIED="1600259864067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$ours_tvg.coverage" NAME="ours_tvg Coverage Results" MODIFIED="1596599232355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$bridge__1_.coverage" NAME="bridge (1) Coverage Results" MODIFIED="1600259763796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/BRIDGE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$Draw__1_.coverage" NAME="Draw (1) Coverage Results" MODIFIED="1600156615022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$dpsgd__1_.coverage" NAME="dpsgd (1) Coverage Results" MODIFIED="1600259855872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/DPSGD" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$LoadMnist.coverage" NAME="LoadMnist Coverage Results" MODIFIED="1596282125216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$byrdie_sv.coverage" NAME="byrdie_sv Coverage Results" MODIFIED="1595906175719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/ByRDiE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$ours_sv.coverage" NAME="ours_sv Coverage Results" MODIFIED="1595913350010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$Config.coverage" NAME="Config Coverage Results" MODIFIED="1595818502693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$test_2.coverage" NAME="test-2 Coverage Results" MODIFIED="1600247888388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/ByRDiE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$draw.coverage" NAME="draw Coverage Results" MODIFIED="1596599074989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$byrdie.coverage" NAME="byrdie Coverage Results" MODIFIED="1600259851301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/ByRDiE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$Niid.coverage" NAME="Niid Coverage Results" MODIFIED="1595762753094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumTest" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$ours_sf.coverage" NAME="ours-sf Coverage Results" MODIFIED="1595905496623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$bridge_sv.coverage" NAME="bridge_sv Coverage Results" MODIFIED="1595907695188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/BRIDGE" />
+    <SUITE FILE_PATH="coverage/TestOnMnist$HeteroData__2_.coverage" NAME="HeteroData (2) Coverage Results" MODIFIED="1595643607720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DifferentGraph/RandomGraph/TVnorm" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$WA.coverage" NAME="WA Coverage Results" MODIFIED="1595762706140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumTest" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$byrdie_wa.coverage" NAME="byrdie-wa Coverage Results" MODIFIED="1595904727543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/ByRDiE-S" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$Softmax_signflipping.coverage" NAME="Softmax_signflipping Coverage Results" MODIFIED="1595924581348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/time-vary-graph" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$ours_noniid.coverage" NAME="ours_noniid Coverage Results" MODIFIED="1599728993230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$test.coverage" NAME="test Coverage Results" MODIFIED="1600258529862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/BRIDGE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$dpsgd_sv.coverage" NAME="dpsgd_sv Coverage Results" MODIFIED="1595912016177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/DPSGD" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$ours_wa.coverage" NAME="ours-wa Coverage Results" MODIFIED="1595818251757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$test_3.coverage" NAME="test-3 Coverage Results" MODIFIED="1600248386391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/DPSGD" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$dpsgd_noniid.coverage" NAME="dpsgd_noniid Coverage Results" MODIFIED="1595912957125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/DPSGD" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$byrdie_noniid.coverage" NAME="byrdie_noniid Coverage Results" MODIFIED="1595906303467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/ByRDiE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$SV.coverage" NAME="SV Coverage Results" MODIFIED="1595762718406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumTest" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$Imopp.coverage" NAME="Imopp Coverage Results" MODIFIED="1595772393480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumTest" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$bridge.coverage" NAME="bridge Coverage Results" MODIFIED="1600259614869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$test.coverage" NAME="test Coverage Results" MODIFIED="1600161061380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Ours" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$SF.coverage" NAME="SF Coverage Results" MODIFIED="1595762726001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NumTest" />
+    <SUITE FILE_PATH="coverage/TestOnMnist$HeteroData.coverage" NAME="HeteroData Coverage Results" MODIFIED="1595661956015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DifferentGraph/RandomGraph/ByRDiE" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$byrdie_noniid.coverage" NAME="byrdie_noniid Coverage Results" MODIFIED="1600162983364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/ByRDiE" />
+    <SUITE FILE_PATH="coverage/Dec_RSA$bridge_sf.coverage" NAME="bridge_sf Coverage Results" MODIFIED="1595907978510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/BRIDGE" />
+    <SUITE FILE_PATH="coverage/Byzantine_robust_decentralized_stochastic_optimization$dpsgd.coverage" NAME="dpsgd Coverage Results" MODIFIED="1600259599459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&lt;class 'list'&gt;: [0.1046, 0.1027, 0.1055, 0.1082, 0.1093, 0.1118, 0.1154, 0.1153, 0.1205, 0.1439, 0.1439, 0.1395, 0.1373, 0.144, 0.1482, 0.145, 0.1454, 0.1445, 0.1442, 0.1438, 0.1422, 0.1494, 0.1484, 0.1494, 0.149, 0.1482, 0.1461, 0.1464, 0.1436, 0.1559, 0.1529, 0.1566, 0.157, 0.1675, 0.1675, 0.1641, 0.1673, 0.1596, 0.1601, 0.1635, 0.1674, 0.1677, 0.168, 0.1679, 0.1705, 0.1679, 0.1571, 0.1623, 0.1659, 0.1706, 0.1729, 0.1679, 0.1666, 0.1704, 0.1707, 0.1783, 0.1803, 0.1794, 0.1797, 0.1804, 0.1814, 0.1875, 0.1847, 0.1863, 0.1898, 0.1865, 0.1874, 0.1899, 0.1922, 0.1943, 0.1968, 0.1988, 0.2028, 0.2088, 0.2132, 0.2124, 0.2088, 0.2082, 0.2159, 0.2193, 0.221, 0.2214, 0.2209, 0.222, 0.2244, 0.2243, 0.228, 0.2303, 0.2303, 0.2314, 0.2304, 0.2335, 0.2355, 0.2355, 0.2331, 0.2303, 0.2313, 0.2303, 0.2317, 0.2287...</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
