@@ -107,7 +107,7 @@ def dpsgd(settting, attack):
         # Regular workers receive models from their neighbors
         # and update their local models
         for id in range(conf['nodeSize']):
-            para = workerPara_memory[id]
+            para = workerPara[id]
             model = DPSGDWorker(para, id, workerPara_memory, conf, lr)
             if settting == 'iid':
                 model.train(image_train[id * num_data: (id + 1) * num_data],
