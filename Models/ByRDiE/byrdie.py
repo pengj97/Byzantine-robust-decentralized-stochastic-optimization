@@ -120,7 +120,7 @@ def byrdie(setting, attack):
                 # Regular workers receive models from their neighbors
                 # and update their local models
                 for id in range(conf['nodeSize']):
-                    para = workerPara_memory[id]
+                    para = workerPara[id]
                     model = ByRDiEWorker(para, id, workerPara_memory, d, conf, lr)
                     if setting == 'iid':
                         model.train(image_train[id * num_data: (id + 1) * num_data],
