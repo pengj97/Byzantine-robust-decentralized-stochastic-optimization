@@ -128,12 +128,12 @@ def ours(setting, attack, flag_time_varying):
 
         # Byzantine attacks
         if attack != None:
-            workerPara, last_str = attack(workerPara)
+            workerPara_memory, last_str = attack(workerPara_memory)
 
         # Regular workers receive models from their neighbors
         # and update their local models
         for id in range(conf['nodeSize']):
-            para = workerPara_memory[id]
+            para = workerPara[id]
             model = OursWorker(para, id, workerPara_memory, conf, lr)
             if setting == 'iid':
                 model.train(image_train[id * num_data: (id + 1) * num_data],
