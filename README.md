@@ -1,6 +1,8 @@
 # Byzantine-Robust Decentralized Stochastic Optimization over Static and Time-varying Networks
 
-Simulating code of paper https://arxiv.org/abs/2005.06276
+## Paper
+
+* [Byzantine-Robust Decentralized Stochastic Optimization over Static and Time-varying Networks] (https://www.sciencedirect.com/science/article/pii/S0165168421000591)
 
 ## Environment
 
