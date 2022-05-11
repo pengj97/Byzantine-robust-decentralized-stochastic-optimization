@@ -1,6 +1,7 @@
 import numpy as np
 import pickle
 import random
+from scipy import stats
 from LoadMnist import getData, data_redistribute
 import Config
 from MainModel import Softmax, get_accuracy, get_vars, get_learning
@@ -39,14 +40,18 @@ class BRIDGEWorker(Softmax):
                 neighbors_para.append(self.workerPara[j])
         number_neighbor = len(neighbors_para)
         neighbors_para = np.array(neighbors_para)
-
-        byzantineSize = self.config['byzantineSize']
-        w_dimension = np.reshape(neighbors_para, (-1, 10 * 784)).T
-        first = np.sort(w_dimension)
-        second = first[:, byzantineSize: number_neighbor - byzantineSize]
-        third = np.sum(second, axis=1) / (number_neighbor - 2 * byzantineSize)
-        aggregate_para = np.reshape(third, (10, 784))
+        
+        trimmed_range = self.config['byzantineSize'] / number_neighbor
+        aggregate_para = stats.trim_mean(neighbors_para, trimmed_range, axis=0)
         return aggregate_para
+
+#         byzantineSize = self.config['byzantineSize']
+#         w_dimension = np.reshape(neighbors_para, (-1, 10 * 784)).T
+#         first = np.sort(w_dimension)
+#         second = first[:, byzantineSize: number_neighbor - byzantineSize]
+#         third = np.sum(second, axis=1) / (number_neighbor - 2 * byzantineSize)
+#         aggregate_para = np.reshape(third, (10, 784))
+#         return aggregate_para
 
     def train(self, image, label):
         """
