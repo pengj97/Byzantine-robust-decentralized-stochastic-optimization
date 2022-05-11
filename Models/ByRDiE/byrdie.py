@@ -1,6 +1,7 @@
 import numpy as np
 import pickle
 import random
+from scipy import stats
 from LoadMnist import getData, data_redistribute
 import Config
 from MainModel import Softmax, get_accuracy, get_vars, get_learning
@@ -40,13 +41,17 @@ class ByRDiEWorker(Softmax):
                 neighbors_para.append(self.workerPara[j])
         number_neighbor = len(neighbors_para)
         neighbors_para = np.array(neighbors_para)
-
-        byzantineSize = self.config['byzantineSize']
-        first = neighbors_para[:, :, self.d].T
-        second = np.sort(first)[:, byzantineSize: number_neighbor - byzantineSize]
-        aggregate_para = np.sum(second, axis=1) / (number_neighbor - 2 * byzantineSize)
-
+        
+        trimmed_range = self.config['byzantineSize'] / number_neighbor
+        aggregate_para = stats.trim_mean(neighbors_para[:, :, self.d], trimmed_range, axis=0)
         return aggregate_para
+
+#         byzantineSize = self.config['byzantineSize']
+#         first = neighbors_para[:, :, self.d].T
+#         second = np.sort(first)[:, byzantineSize: number_neighbor - byzantineSize]
+#         aggregate_para = np.sum(second, axis=1) / (number_neighbor - 2 * byzantineSize)
+
+#         return aggregate_para
 
     def train(self, image, label):
         """
